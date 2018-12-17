@@ -1,0 +1,10 @@
+SiiNunit
+{
+mod_package : .universal {
+	display_name: "D.Va Pack for ATS and ETS2"
+	package_version: "1.0"
+	author: "Lemon"
+	category[]: "paint_job"
+	icon: "icon.jpg"
+}
+}

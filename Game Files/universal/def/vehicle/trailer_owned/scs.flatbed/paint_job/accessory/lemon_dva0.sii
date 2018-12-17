@@ -26,7 +26,7 @@ simple_paint_job_data : .ovr3
 
 simple_paint_job_data : .ovr4
 {
-	paint_job_mask: "/vehicle/trailer_owned/upgrade/paintjob/scs_flatbed/lemon_dva0/details_light.tobj"
+	paint_job_mask: "/vehicle/lemon_dva0_light.tobj"
 	acc_list[]: "f_body.wind_def"
 }
 }

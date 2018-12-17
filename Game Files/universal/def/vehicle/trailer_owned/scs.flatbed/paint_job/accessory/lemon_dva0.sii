@@ -1,0 +1,32 @@
+SiiNunit
+{
+simple_paint_job_data : .ovr0
+{
+	paint_job_mask: "/vehicle/trailer_owned/upgrade/paintjob/scs_flatbed/lemon_dva0/ats_28.tobj"
+	acc_list[]: "body.curtain_28"
+}
+
+simple_paint_job_data : .ovr1
+{
+	paint_job_mask: "/vehicle/trailer_owned/upgrade/paintjob/scs_flatbed/lemon_dva0/ats_45.tobj"
+	acc_list[]: "body.curtain_45"
+}
+
+simple_paint_job_data : .ovr2
+{
+	paint_job_mask: "/vehicle/trailer_owned/upgrade/paintjob/scs_flatbed/lemon_dva0/ats_48.tobj"
+	acc_list[]: "body.curtain_48"
+}
+
+simple_paint_job_data : .ovr3
+{
+	paint_job_mask: "/vehicle/trailer_owned/upgrade/paintjob/scs_flatbed/lemon_dva0/ats_53.tobj"
+	acc_list[]: "body.curtain_53"
+}
+
+simple_paint_job_data : .ovr4
+{
+	paint_job_mask: "/vehicle/trailer_owned/upgrade/paintjob/scs_flatbed/lemon_dva0/details_light.tobj"
+	acc_list[]: "f_body.wind_def"
+}
+}

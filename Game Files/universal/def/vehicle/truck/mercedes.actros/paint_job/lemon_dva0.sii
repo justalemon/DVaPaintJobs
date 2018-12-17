@@ -1,0 +1,19 @@
+SiiNunit
+{
+accessory_paint_job_data : lemon_dva0.mercedes.actros.paint_job
+{
+	name: "D.Va Classic"
+	price: 2000
+	unlock: 0
+	icon: "lemon_dva0"
+
+	airbrush: true
+	base_color: (0, 0, 0)
+	paint_job_mask: "/vehicle/truck/upgrade/paintjob/mercedes_actros/lemon_dva0.tobj"
+	stock: false
+	alternate_uvset: false
+
+	suitable_for[]: "cabin_l.mercedes.actros.cabin"
+	suitable_for[]: "cabin_l_lw.mercedes.actros.cabin"
+}
+}

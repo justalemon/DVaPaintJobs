@@ -1,0 +1,18 @@
+SiiNunit
+{
+accessory_paint_job_data : lemon_dva0b.man.tgx.paint_job
+{
+	name: "D.Va Classic"
+	price: 2000
+	unlock: 0
+	icon: "lemon_dva0"
+
+	airbrush: true
+	base_color: (0, 0, 0)
+	paint_job_mask: "/vehicle/truck/upgrade/paintjob/man_tgx/lemon_dva0b.tobj"
+	stock: false
+	alternate_uvset: false
+
+	suitable_for[]: "xxl_cab.man.tgx.cabin"
+}
+}

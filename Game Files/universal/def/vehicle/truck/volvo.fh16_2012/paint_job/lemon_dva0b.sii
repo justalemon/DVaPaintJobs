@@ -1,0 +1,20 @@
+SiiNunit
+{
+accessory_paint_job_data : lemon_dva0b.volvo.fh16_2012.paint_job
+{
+	name: "D.Va Classic"
+	price: 2000
+	unlock: 0
+	icon: "lemon_dva0"
+
+	airbrush: true
+	base_color: (0, 0, 0)
+	paint_job_mask: "/vehicle/truck/upgrade/paintjob/volvo_fh16_2012/lemon_dva0b.tobj"
+	stock: false
+	alternate_uvset: false
+
+	suitable_for[]: "l2h2.volvo.fh16_2012.cabin"
+	suitable_for[]: "l2h3.volvo.fh16_2012.cabin"
+	suitable_for[]: "l2h3_8x4.volvo.fh16_2012.cabin"
+}
+}

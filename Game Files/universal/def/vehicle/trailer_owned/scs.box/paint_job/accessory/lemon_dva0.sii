@@ -1,0 +1,185 @@
+SiiNunit
+{
+simple_paint_job_data : .ovr0
+{
+	paint_job_mask: "/vehicle/trailer_owned/upgrade/paintjob/scs_box/lemon_dva0/ats_28.tobj"
+	acc_list[]: "body.dryvan_28"
+	acc_list[]: "body.insulated_28"
+	acc_list[]: "body.reefer_28"
+}
+simple_paint_job_data : .ovr1
+{
+	paint_job_mask: "/vehicle/trailer_owned/upgrade/paintjob/scs_box/lemon_dva0/ats_45.tobj"
+	acc_list[]: "body.dryvan_45"
+	acc_list[]: "body.insulated_45"
+	acc_list[]: "body.reefer_45"
+}
+simple_paint_job_data : .ovr2
+{
+	paint_job_mask: "/vehicle/trailer_owned/upgrade/paintjob/scs_box/lemon_dva0/ats_48.tobj"
+	acc_list[]: "body.dryvan_48"
+	acc_list[]: "body.insulated_48"
+	acc_list[]: "body.reefer_48"
+}
+simple_paint_job_data : .ovr3
+{
+	paint_job_mask: "/vehicle/trailer_owned/upgrade/paintjob/scs_box/lemon_dva0/ats_53.tobj"
+	acc_list[]: "body.dryvan_53"
+	acc_list[]: "body.insulated_53"
+	acc_list[]: "body.reefer_53"
+}
+
+
+
+simple_paint_job_data : .ovr4
+{
+	paint_job_mask: "/vehicle/trailer_owned/upgrade/paintjob/scs_box/lemon_dva0/ets2_136c.tobj"
+	acc_list[]: "body.curtain_136"
+}
+simple_paint_job_data : .ovr5
+{
+	paint_job_mask: "/vehicle/trailer_owned/upgrade/paintjob/scs_box/lemon_dva0/ets2_136dir.tobj"
+	acc_list[]: "body.dry_van_136"
+	acc_list[]: "body.ins_136"
+	acc_list[]: "body.reefer_136"
+	acc_list[]: "body.dry_vans_136"
+	acc_list[]: "body.ins_s_136"
+	acc_list[]: "body.reefers_136"
+}
+simple_paint_job_data : .ovr6
+{
+	paint_job_mask: "/vehicle/trailer_owned/upgrade/paintjob/scs_box/lemon_dva0/ets2_136f.tobj"
+	acc_list[]: "body.m_floor_136"
+	acc_list[]: "body.m_floor_136r"
+}
+simple_paint_job_data : .ovr7
+{
+	paint_job_mask: "/vehicle/trailer_owned/upgrade/paintjob/scs_box/lemon_dva0/ets2_78c.tobj"
+	acc_list[]: "body.curtain_78"
+	acc_list[]: "body.curtain_78bd"
+	acc_list[]: "f_body.door_c"
+	acc_list[]: "f_body.wall_c"
+}
+simple_paint_job_data : .ovr8
+{
+	paint_job_mask: "/vehicle/trailer_owned/upgrade/paintjob/scs_box/lemon_dva0/ets2_78dir.tobj"
+	acc_list[]: "body.dry_van_78bd"
+	acc_list[]: "body.ins_78bd"
+	acc_list[]: "body.reefer_78bd"
+	acc_list[]: "body.dry_vs_78bd"
+	acc_list[]: "body.ins_s_78bd"
+	acc_list[]: "body.reefers_78bd"
+	acc_list[]: "body.dry_vans_78"
+	acc_list[]: "body.ins_s_78"
+	acc_list[]: "body.reefers_78"
+	acc_list[]: "body.dry_van_78"
+	acc_list[]: "body.ins_78"
+	acc_list[]: "body.reefer_78"
+	acc_list[]: "f_body.door_dv"
+	acc_list[]: "f_body.door_dvsd"
+}
+simple_paint_job_data : .ovr9
+{
+	paint_job_mask: "/vehicle/trailer_owned/upgrade/paintjob/scs_box/lemon_dva0/ets2_78f.tobj"
+	acc_list[]: "body.m_floor_78"
+	acc_list[]: "body.m_floor_78bd"
+}
+
+
+
+simple_paint_job_data : .ovr10
+{
+	paint_job_mask: "/vehicle/trailer_owned/upgrade/paintjob/scs_box/lemon_dva0/rear_rollup.tobj"
+	acc_list[]: "rear_body.roll_up"
+}
+
+simple_paint_job_data : .ovr11
+{
+	paint_job_mask: "/vehicle/trailer_owned/upgrade/paintjob/scs_box/lemon_dva0/rear_standard.tobj"
+	acc_list[]: "rear_body.simple"
+}
+
+
+
+simple_paint_job_data : .ovr12
+{
+	paint_job_mask: "/vehicle/lemon_dva0_light.tobj"
+	acc_list[]: "f_body.ch_unit"
+	acc_list[]: "f_body.cooler"
+	acc_list[]: "f_body.king"
+	acc_list[]: "f_body.paint"
+	acc_list[]: "f_body.wind_def"
+	acc_list[]: "rear_body.wind_def"
+}
+
+simple_paint_job_data : .ovr13
+{
+	paint_job_mask: "/vehicle/lemon_dva0_mid.tobj"
+	acc_list[]: "f_body.th_box_paint"
+}
+simple_paint_job_data : .ovr14
+{
+	paint_job_mask: "/vehicle/lemon_dva0_dark.tobj"
+	acc_list[]: "chs_f_l.aero"
+	acc_list[]: "chs_f_l.paint_28"
+	acc_list[]: "chs_f_l.paint_28h"
+	acc_list[]: "chs_f_l.paint_45"
+	acc_list[]: "chs_f_l.paint_45h"
+	acc_list[]: "chs_f_l.paint_53"
+	acc_list[]: "chs_f_l.paint_53h"
+	acc_list[]: "chs_f_r.aero"
+	acc_list[]: "chs_f_r.paint_28"
+	acc_list[]: "chs_f_r.paint_45"
+	acc_list[]: "chs_f_r.paint_53"
+
+	acc_list[]: "chs_r_l.palletbox"
+	acc_list[]: "chs_r_r.palletbox"
+	acc_list[]: "chs_m_l.sideskirt"
+	acc_list[]: "chs_m_r.sideskirt"
+	acc_list[]: "chs_m_l.sideskirt_bd"
+	acc_list[]: "chs_m_l.sideskirt_d"
+	acc_list[]: "chs_m_r.sideskirt_bd"
+	acc_list[]: "chs_m_r.sideskirt_d"
+	acc_list[]: "chs_f_l.sideskirt_03"
+	acc_list[]: "chs_f_r.sideskirt_03"
+	acc_list[]: "chs_f_l.sideskirt_02"
+	acc_list[]: "chs_f_l.sideskirt_2d"
+	acc_list[]: "chs_f_l.t_box"
+	acc_list[]: "chs_f_r.sideskirt_02"
+	acc_list[]: "chs_f_r.sideskirt_2d"
+	acc_list[]: "chs_r_l.paint_box"
+	acc_list[]: "chs_r_l.paint_box_d"
+	acc_list[]: "chs_r_l.sideskirt_01"
+	acc_list[]: "chs_r_l.sideskirt_02"
+	acc_list[]: "chs_r_r.paint_box"
+	acc_list[]: "chs_r_r.paint_box_d"
+	acc_list[]: "chs_r_r.sideskirt_01"
+	acc_list[]: "chs_r_r.sideskirt_02"
+	acc_list[]: "f_body.f_toolbox"
+	acc_list[]: "chs_m_l.paint_box_bd"
+	acc_list[]: "chs_m_l.paint_box_d"
+	acc_list[]: "chs_m_l.paint_box_m"
+	acc_list[]: "chs_m_r.paint_box_bd"
+	acc_list[]: "chs_m_r.paint_box_d"
+	acc_list[]: "chs_m_r.paint_box_m"
+	acc_list[]: "f_body.th_box_p_mf"
+	#acc_list[]: "f_body.th_box_paint"
+	acc_list[]: "chs_f_l.palletbox"
+	acc_list[]: "chs_f_l.sideskirt_01"
+	acc_list[]: "chs_f_l.sideskirt_1d"
+	acc_list[]: "chs_f_r.palletbox"
+	acc_list[]: "chs_f_r.sideskirt_01"
+	acc_list[]: "chs_f_r.sideskirt_1d"
+	acc_list[]: "r_bumper.paint_bd"
+	acc_list[]: "r_bumper.paint_d"
+	acc_list[]: "chs_f_l.p_box_cage"
+	acc_list[]: "chs_f_l.p_box_doubl"
+	acc_list[]: "chs_f_l.paint_box"
+	acc_list[]: "chs_f_l.paint_box_d"
+	acc_list[]: "chs_f_r.p_box_cage"
+	acc_list[]: "chs_f_r.p_box_doubl"
+	acc_list[]: "chs_f_r.paint_box"
+	acc_list[]: "chs_f_r.paint_box_d"
+	acc_list[]: "r_bumper.paint"
+}
+}

@@ -1,0 +1,20 @@
+SiiNunit
+{
+accessory_paint_job_data : lemon_dva0.daf.xf_euro6.paint_job
+{
+	name: "D.Va Classic"
+	price: 2000
+	unlock: 0
+	icon: "lemon_dva0"
+
+	airbrush: true
+	base_color: (0, 0, 0)
+	paint_job_mask: "/vehicle/truck/upgrade/paintjob/daf_xf_euro6/lemon_dva0.tobj"
+	stock: false
+	alternate_uvset: false
+
+	suitable_for[]: "superspace.daf.xf_euro6.cabin"
+	suitable_for[]: "spacespoiler.daf.xf_euro6.cabin"
+	suitable_for[]: "space.daf.xf_euro6.cabin"
+}
+}
